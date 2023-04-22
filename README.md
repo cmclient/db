@@ -1,1 +1,2 @@
-Moved to: https://github.com/BGXDB/champions
+# Repository moved!
+New URL: https://github.com/BGXDB/champions
